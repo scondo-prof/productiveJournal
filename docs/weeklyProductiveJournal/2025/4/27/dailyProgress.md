@@ -43,3 +43,7 @@
 #### def bulk_s3_upload(dir_path: str) -> list[str]:
 
 - Under construction is a function that will be given a directory, and it will upload every file/directory (starting at the given dir_path) into s3
+
+---
+
+![Master of Creation and Organization](./assets/masterOfCreationAndOrganization.png)
