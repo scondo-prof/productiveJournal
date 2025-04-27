@@ -9,6 +9,9 @@ theme:
   favicon: assets/favicon.ico
   features:
     - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
     - content.code.copy
   palette:
     # Palette toggle for light mode
@@ -25,6 +28,8 @@ theme:
       toggle:
         icon: material/robot
         name: Switch to light mode
+  plugins:
+    - search
   font:
     text: "Public Sans"
     code: "Roboto Mono"
