@@ -48,6 +48,7 @@ markdown_extensions:
       custom_checkbox: true
 
 nav:
+  - Repo: https://github.com/scondo-prof/productiveJournal
   - Home: index.md
-  - DnD April 26th 2025: dndJournal/2025/4/26/hermsJournal.md
-  - Journal April 21st 2025: weeklyProductiveJournal/2025/4/21/dailyProgress.md
+  - 2025/04/21 | Productive Journal: weeklyProductiveJournal/2025/4/21/dailyProgress.md
+  - 2025/04/26 | Dnd Journal: dndJournal/2025/4/26/hermsJournal.md
