@@ -45,6 +45,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - DnD:
-      - April 26th 2025: docs/dndJournal/2025/4/26/hermsJournal.md
+      - April 26th 2025: dndJournal/2025/4/26/hermsJournal.md
   - Journal:
-      - April 21st 2025: docs/weeklyProductiveJournal/2025/4/21/dailyProgress.md
+      - April 21st 2025: weeklyProductiveJournal/2025/4/21/dailyProgress.md
