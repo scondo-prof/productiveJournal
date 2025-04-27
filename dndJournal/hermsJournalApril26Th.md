@@ -26,46 +26,46 @@
 
 # Monday
 
-- Mr.Yowyussi's homeroom
+## Mr.Yowyussi's homeroom
 
-  - Gnome with a Kilt
-  - Eating yogurt he stole from faculty kitchen
-  - Festival is still on after field trip disaster
-    - Starts Next Thrusday unti Sunday (Same hours as a typical fair)
-  - School Motto
-    - _"Every Life is a Lesson"_
-    - Mr.Yowyussi (Mr.Y) Doesnt know School Motto
-  - The plan to get Prinipal to the hole
-    - Tell the Principal there is a hole, that is where Kirag and Lucia found me, and we think it may be of some importance
+- Gnome with a Kilt
+- Eating yogurt he stole from faculty kitchen
+- Festival is still on after field trip disaster
+  - Starts Next Thrusday unti Sunday (Same hours as a typical fair)
+- School Motto
+  - _"Every Life is a Lesson"_
+  - Mr.Yowyussi (Mr.Y) Doesnt know School Motto
+- The plan to get Prinipal to the hole
+  - Tell the Principal there is a hole, that is where Kirag and Lucia found me, and we think it may be of some importance
 
-- Principal Drake's Office
+## Principal Drake's Office
 
-  - Convo in Principal Drakes Office
+- Convo in Principal Drakes Office
 
-    - Mr.Mayor we should postpone the festival because of activities s _Principal Drake_
-    - The Mayor Wants the festival to keep going
-      - Also wants to shut down the school
+  - Mr.Mayor we should postpone the festival because of activities s _Principal Drake_
+  - The Mayor Wants the festival to keep going
+    - Also wants to shut down the school
 
-  - First thought on the hole is to go to the police because it is not on school property
+- First thought on the hole is to go to the police because it is not on school property
 
-  - The group pursuaded **Principal Drake** to go checkout the hole in the ground for the safety of the students
+- The group pursuaded **Principal Drake** to go checkout the hole in the ground for the safety of the students
 
-  - His sister is the Guidance Counselor
+- His sister is the Guidance Counselor
 
-- Van Ride to the Hole
+## Van Ride to the Hole
 
-  - Confronted the Principal about his connection to the Longdales
+- Confronted the Principal about his connection to the Longdales
 
-    - Said along his lineage, the drakes married the longdales, and the name became draek
+  - Said along his lineage, the drakes married the longdales, and the name became draek
 
-    - He is proud of longdale lineage
+  - He is proud of longdale lineage
 
-- Bring him to the hole in the field
+## The Hole
 
-  - The dirt was arranged in a different way
+- The dirt was arranged in a different way
 
-  - Principal Drake seemed surprised about the hole
+- Principal Drake seemed surprised about the hole
 
-  - The sword is gone, and no mummies were triggered, meaning a longdale must have come and obtained the sword
+- The sword is gone, and no mummies were triggered, meaning a longdale must have come and obtained the sword
 
-  - We have now confirmed we can report back to Mr.Drake
+- We have now confirmed we can report back to Mr.Drake
