@@ -91,3 +91,33 @@
   - Must meet with him this Thursday
 
   - Nathan advises to not make deals with said god
+
+# Thursday
+
+## 5:40pm with Zorschius the Cat God
+
+- Wizard in the cart requested service of Zorschius and tricked him into living in the body
+
+- Attempted to utilize Zorschius for his traveling business
+
+- We must play the trickster wizards game to break Zorschius' Curse of being a Cat
+
+- Sunny Day
+
+- Wzards Name is **Azlo**
+
+## The Carts Awakening
+
+- Bells and whisltes start sounding off and the cart rattles and shake violently
+
+- Sounds like something tries to get out, and busts out a CRT television with a coin slot
+
+- Insert coin, and the screen is an aerial view of an island, labeled Doom Island
+
+## Doom Island
+
+- In the helecopter everyone has gear on, and a man with a blonde mustache gives instructions
+
+  - The artifact is guarded by a powerful beast
+
+  - Explosion happens out of the helecopter, and the mustache man falls out of the helecopter, all adventurers blackout and the session ends.
