@@ -1,0 +1,46 @@
+site_name: Productive Journal
+site_url: https://mydomain.org/mysite
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  icon:
+    logo: material/lightning-bolt
+  favicon: assets/favicon.ico
+  features:
+    - navigation.tabs
+    - content.code.copy
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      toggle:
+        icon: material/alien
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      toggle:
+        icon: material/robot
+        name: Switch to light mode
+  font:
+    text: "Public Sans"
+    code: "Roboto Mono"
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
