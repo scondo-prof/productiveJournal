@@ -1,27 +1,23 @@
-# Secret Lair
+# Sunday
 
-## requires hidden hand tattoo to enter door ( do not know magic/ spell that seals door, suspects arcane lock)
+## Secret Lair
 
-# In the lair is Nathan Hall
+- Requires hidden hand tattoo to enter door (do not know magic or spell that seals door, suspects arcane lock)
 
-## The party keeps calling Nathan a pedo and it makes him uncomfortabl
+- Nathan Hall is in the lair
 
-## has a warhammer
+## Nathan Hall
 
-## member of the society of swords and sorcery (the symbol for the lair)
+- The party keeps calling Nathan a pedo and it makes him uncomfortable
+- Has a warhammer
+- Member of the Society of Swords and Sorcery (the symbol for the lair)
+- Deacon's brother
+- We filled in Nathan about the sword and the underground tomb
+- Staying in town with Mrs. Historia
+  - Mrs. Historia is a member of the Society of Swords and Sorcery
 
-## Deacons Brother
+## Society of Swords and Sorcery
 
-## We filled in Nathan about the sword, the underground tomb,
-
-## staying in town with Mrs.Historia
-
-### Mrs.Historia is member of the Society of Swords and
-
-# Society of Swords and Sorcery
-
-## aprivate society that has swordn to secretly protect the world witout the riches and fame
-
-## show that the tales of richard longdale in stone tablets and volumes
-
-## swearing to this society is temproary and will be expunged post nathan cleaning it up
+- A private society that has sworn to secretly protect the world without seeking riches and fame
+- Shows that the tales of Richard Longdale in stone tablets and volumes
+- Swearing to this society is temporary and will be expunged post Nathan cleaning it up
