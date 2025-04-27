@@ -15,6 +15,8 @@ Each entry captures personal and professional development, organized by date.
 
 - 2025||04||21||[Daily Entry](weeklyProductiveJournal/2025/4/21/dailyProgress.md)
 
+- 2025||04||26||[DND Journal](dndJournal/2025/4/26/hermsJournal.md)
+
 ---
 
 ![Journal Keeper](./assets/keeperOfTheJournals.png)
