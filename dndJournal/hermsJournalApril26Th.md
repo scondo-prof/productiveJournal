@@ -69,3 +69,25 @@
 - The sword is gone, and no mummies were triggered, meaning a longdale must have come and obtained the sword
 
 - We have now confirmed we can report back to Mr.Drake
+
+## The Text Threat
+
+- All Adventurers Except myself have gotten a text with a link, saying:
+  - _"If you dont wish for the same thing to happen to your family at the musuem stay out"_
+  - The link was live feed of their families
+
+## Call From Nathan
+
+- Called to meet in the lair
+
+- Nathan dispelled magic utilizing a gem
+
+  - Squeemus and Samwell had their memories modified while at the guidance councellor
+
+  - Nathan says we should go to him before talking to principal drake to keep the truth close to the chest
+
+- Zorschius Beans Spilt
+
+  - Must meet with him this Thursday
+
+  - Nathan advises to not make deals with said god
