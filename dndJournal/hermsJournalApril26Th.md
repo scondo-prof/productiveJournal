@@ -21,3 +21,17 @@
 - A private society that has sworn to secretly protect the world without seeking riches and fame
 - Shows that the tales of Richard Longdale in stone tablets and volumes
 - Swearing to this society is temporary and will be expunged post Nathan cleaning it up
+
+# Monday
+
+- Mr.Yowyussi's homeroom
+
+  - Gnome with a Kilt
+  - Eating yogurt he stole from faculty kitchen
+  - Festival is still on after field trip disaster
+    - Starts Next Thrusday unti Sunday (Same hours as a typical fair)
+  - School Motto
+    - _"Every Life is a Lesson"_
+    - Mr.Yowyussi (Mr.Y) Doesnt know School Motto
+  - The plan to get Prinipal to the hole
+    - Tell the Principal there is a hole, that is where Kirag and Lucia found me, and we think it may be of some importance
