@@ -1,48 +1,43 @@
-# Day of Organization, and Data Reckoning
+# Day of Organization and Data Reckoning
 
-## productiveJournal Repo
+## productiveJournal Repository
 
-### Directory Structure
+### Directory Structure Enhancements
 
-#### DND Notes Integration
+#### DND Journal Integration
 
-- Created new journal entry process for dnd journals from the perspective of the charcter in the campaign
-
-- Entries are located with the same directory structure as weeklyProductiveJournal entries, but reside in the dndJournal Directory
+- Created a new journal entry process for DND sessions, written from the perspective of the character in the campaign.
+- Entries follow the same directory structure as the `weeklyProductiveJournal` but are organized within the `dndJournal` directory.
 
 ---
 
 ### GitHub Pages Integration
 
-#### Cluttered Integration Structure
+#### Managing Clutter
 
-- The repo was starting to get populated, and it needed an ability to organize beyond a single readme.md
-
-- Solution was to integrate a CI/CD pipeline I have used before to create repo docs utilizing GitHub Pages
-
----
+- The repository was becoming populated with various Markdown files, requiring a more structured organizational system beyond a single `README.md`.
+- Integrated a CI/CD pipeline to build repository documentation utilizing GitHub Pages for better navigation and management.
 
 #### GitHub Pages Layout
 
-- Went through many interations of the GitHub Pages Layout, and landed on the current structure that is located in the mkdocs.yaml file in the root of this repo
+- Iterated through multiple layout structures for GitHub Pages.
+- Finalized the current layout, configured in the `mkdocs.yaml` file located at the root of this repository.
 
-## theToolKit Repo
+## theToolKit Repository
 
-### s3_upload.py
+### s3_upload.py Enhancements
 
-#### def upload_s3_obj(file_name: str, s3_path: str) -> str:
+#### `upload_s3_obj(file_name: str, s3_path: str) -> str`
 
-- Created a generic funciton to upload a singular object.
+- Developed a generic function to upload a single object to S3.
+- The function leverages transfer acceleration when available on the target bucket.
+- Implements an intentionally constructed multi-part upload process to optimize efficiency for both small and large files.
+  - Designed with workflows in mind that involve varied asset sizes, such as Adobe Premiere project files (small) and large video files (large).
 
-- This function will utilize transfer acceleration if the bucket has it
+#### `bulk_s3_upload(dir_path: str) -> list[str]`
 
-- It also utilizes a intentionally constructed multi part upload to maximize efficiency for projects with small and large files
-
-  - This was done with the mindset of projects that have both project files such as Adobe Premiere Working Files, and their Assets ranging from Large Video Files, to Small Picture Files
-
-#### def bulk_s3_upload(dir_path: str) -> list[str]:
-
-- Under construction is a function that will be given a directory, and it will upload every file/directory (starting at the given dir_path) into s3
+- Began constructing a function to recursively upload all files and directories starting from the provided `dir_path` into S3.
+- This function is still under active development.
 
 ---
 
