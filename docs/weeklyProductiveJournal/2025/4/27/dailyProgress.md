@@ -2,6 +2,8 @@
 
 ## productiveJournal Repository
 
+---
+
 ### Directory Structure Enhancements
 
 #### DND Journal Integration
@@ -24,6 +26,8 @@
 - Finalized the current layout, configured in the `mkdocs.yaml` file located at the root of this repository.
 
 ## theToolKit Repository
+
+---
 
 ### s3_upload.py Enhancements
 
