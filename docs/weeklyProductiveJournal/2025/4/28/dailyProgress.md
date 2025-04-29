@@ -335,3 +335,36 @@ output "natName" {
   value = google_compute_router_nat.nat.name
 }
 ```
+
+## Tickling the Ivories not Ovaries Ba Dum Tsss
+
+---
+
+### Technique Training
+
+#### E Major Chord Progression
+
+- Long Short Chord Practice
+
+- Short Long Chord Practice
+
+- Long Short Short Short Chord Practice
+
+- Short Short Short Long Chord Practice
+
+- Chord Switching Practice
+  - Can Now Comfortably Shift between All Major Chords (Not Including Flats/Sharps)
+
+---
+
+### Song Learning
+
+#### I by Old Gray
+
+- Can perform with little error
+- Learning to keep better tempo
+
+#### II by Old Gray
+
+- Can perform the first half of the song rather well
+- Second half gets a touch tricky, luckily the lower octave keys stay pretty static
