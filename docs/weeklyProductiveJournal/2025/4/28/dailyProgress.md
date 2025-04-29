@@ -1,24 +1,24 @@
-# Day of Mass Terrafomring
+# Day of Mass Terraforming
 
 ## MultiCloudIac Repository
 
 ---
 
-### Transition of TF Standards
+### Transition of Terraform Standards
 
-#### Utilization of Count Iterative
+#### Utilization of Count Iterative Logic
 
-- The Count iterable can be super handy for making modules with dynamic amount of iterables.
-  - This has been accomplished with making lists of Objects where the Objects are the exact layout of the arguments that are required
-    - This methodology requires the proper use of nullable arguments to allow every potential combination
-- To keep naming in the modules the same, while also allowing the freedom of naming the iterables something different, the resourceName generic variable will be used in tandem with the objects name field
-- Arguments that will need to stay the same through all the iterables will be made into a variable not existing within the list of objects, ensuring each resource created will share the same argument for ease of implementation (review below)
+- The **count** iterable proves extremely handy for creating modules with a dynamic number of resources.
+  - This is achieved by constructing **lists of objects**, where each object matches the argument layout required by the resource.
+    - Proper use of **nullable arguments** ensures flexible combinations without errors.
+- To maintain consistent resource naming across iterations while allowing flexible custom names, a **resourceName** variable is used in tandem with each object's **name** field.
+- Shared arguments (values that stay the same across all resources) are declared as separate variables instead of embedding them in the object list for simplicity.
 
-Example Integration:
+##### Example Integration
 
-main.tf
+##### main.tf
 
-```
+```hcl
 terraform {
   required_providers {
     google = {
@@ -75,11 +75,9 @@ resource "google_compute_subnetwork" "subnetwork" {
 }
 ```
 
-_Notice, **network = var.subnetworkNetwork** is not utilizing the **var.subnetworkObjects[count.index][""]** variable. This makes sure each subnet created will be bound to the same network._
+##### variables.tf
 
-variables.tf
-
-```
+```hcl
 variable "gcpProjectId" {
   type = string
 }
@@ -133,9 +131,9 @@ variable "subnetworkNetwork" {
 }
 ```
 
-outputs.tf
+##### outputs.tf
 
-```
+```hcl
 output "subnetworkId" {
   value = google_compute_subnetwork.subnetwork[*].id
 }
@@ -167,21 +165,22 @@ output "subnetworkSelfLink" {
 output "subnetworkName" {
   value = google_compute_subnetwork.subnetwork[*].name
 }
+...
 ```
+
+---
 
 #### Utilization of Resource Object
 
-- When someone creates a resource they can make variables for each argument in that resource. Valid strategy, but it takes up a ton of space and can get confusing if pulled in via module clause in the future.
+- Managing many Terraform variables per resource becomes chaotic fast.
+- A better practice is to group resource attributes into **a single object variable**.
+- To standardize resource names, the **resourceName** is appended manually rather than derived from the object.
 
-- Solution to this is creating an object for the resource
+##### Example Integration
 
-- For this integration the name argument in the object will be replaced completely with the resourceName variable
+##### main.tf
 
-Exmaple Integration:
-
-main.tf
-
-```
+```hcl
 terraform {
   required_providers {
     google = {
@@ -258,9 +257,9 @@ resource "google_compute_router_nat" "nat" {
 }
 ```
 
-variables.tf
+##### variables.tf
 
-```
+```hcl
 variable "gcpProjectId" {
   type = string
 }
@@ -324,9 +323,9 @@ variable "natObject" {
 }
 ```
 
-outputs.tf
+##### outputs.tf
 
-```
+```hcl
 output "natId" {
   value = google_compute_router_nat.nat.id
 }
@@ -336,7 +335,7 @@ output "natName" {
 }
 ```
 
-## Tickling the Ivories not Ovaries Ba Dum Tsss
+## Tickling the Ivories, Not the Ovaries 🎹
 
 ---
 
@@ -344,27 +343,27 @@ output "natName" {
 
 #### E Major Chord Progression
 
-- Long Short Chord Practice
-
-- Short Long Chord Practice
-
-- Long Short Short Short Chord Practice
-
-- Short Short Short Long Chord Practice
-
-- Chord Switching Practice
-  - Can Now Comfortably Shift between All Major Chords (Not Including Flats/Sharps)
+- Practiced **long-short** chord patterns
+- Practiced **short-long** chord patterns
+- Practiced **long-short-short-short** chord patterns
+- Practiced **short-short-short-long** chord patterns
+- **Chord Switching Practice**:
+  - I can now comfortably shift between all major chords (excluding sharps and flats for now)
 
 ---
 
 ### Song Learning
 
-#### I by Old Gray
+#### "I" by Old Gray
 
-- Can perform with little error
-- Learning to keep better tempo
+- I can perform the full piece with minimal errors
+- Focused on improving tempo consistency
 
-#### II by Old Gray
+#### "II" by Old Gray
 
-- Can perform the first half of the song rather well
-- Second half gets a touch tricky, luckily the lower octave keys stay pretty static
+- I can perform the first half of the song solidly
+- The second half is trickier, but the lower octaves offer a helpful static foundation
+
+---
+
+![Terraform Creator of the Galaxy](./assets/terraformersTechnologyShift.png)
