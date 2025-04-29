@@ -48,7 +48,7 @@
 
 ### Requests with the HTTPX Library
 
-#### Sending Requests with a Body
+#### Sending Httpx Requests with a Body
 
 - When you need to include a request body, it's often best to use `httpx.request` instead of the shorthand methods like `httpx.delete` or `httpx.post`.
   - This approach allows you to pass a Python dictionary as a JSON object via the `json` argument for cleaner, more accurate request bodies.
