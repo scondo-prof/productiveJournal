@@ -18,7 +18,7 @@
 - Often observed in engineers who work with infrastructure or process design.
 - For example, remembering someone named Susan by mentally linking her to the main character from _Monsters vs. Aliens_.
 
-#### Tactile/Procedural Memory
+#### Tactile/Procedural-Strong Memory
 
 - Involves understanding and retaining information through hands-on problem solving or full-procedure reading.
 - Breaks complex tasks into smaller, manageable components through either physical or conceptual deconstruction.
