@@ -1,22 +1,28 @@
-# Day of Understanding The Process of Cranial Computation
+# Day of Understanding the Process of Cranial Computation
 
 ## Learning Styles
 
 ---
 
-### Determining the Process of Thinking
+### Determining How the Brain Thinks
 
-#### Terminology Strong Memory
+#### Terminology-Strong Memory
 
-- The Memory Process of easily retaining information strictly by word of mouth, or text on a sheet
-- Found a lot of successful Hard Science Students such as Physics, Bio, Chemistry, Math have this type of memory
-- Example of this would be hearing someone introduce their name as susan and easily remembering susan without any additional mental computation
+- This memory process involves easily retaining information through spoken words or written text.
+- Commonly found in students excelling in hard sciences such as Physics, Biology, Chemistry, and Mathematics.
+- For example, hearing someone introduce themselves as Susan and remembering the name without any additional mental association.
 
-#### Image/Process Strong Memory
+#### Image/Process-Strong Memory
 
-- The memory process of seeing images/processes for understanding(very diagram heavy)
-- Found A lot of Engineers with Infrastructure/Processess Diagramming have this type of memory
-- Example of this would be hearing someone introduce their name as susan, the brain will forget susan unless it is tied in to a physical subject that the host already understands, such as tying susan in with the Main character from Monsters Versus Aliens
+- This memory process is grounded in visual or process-oriented comprehension, relying heavily on diagrams.
+- Often observed in engineers who work with infrastructure or process design.
+- For example, remembering someone named Susan by mentally linking her to the main character from _Monsters vs. Aliens_.
+
+#### Tactile/Procedural Memory
+
+- Involves understanding and retaining information through hands-on problem solving or full-procedure reading.
+- Breaks complex tasks into smaller, manageable components through either physical or conceptual deconstruction.
+- For example, remembering the name Susan by responding, "Great to meet you, Susan," and then reinforcing it through conversational repetition.
 
 ## Networking
 
@@ -24,16 +30,44 @@
 
 ### CIDR Blocks
 
-#### Understanding Ranges
+#### Understanding IP Ranges
 
-- Cidr Blocks are made up of 32 bits
+- CIDR blocks consist of 32 bits.
+- Each octet is 8 bits long.
+- A `/8` CIDR block means three octets are mutable.
 
-- Each Octet is made up of 8 bits
+  - Example: `10.0.0.0/8` — the `10` is fixed, while the remaining three octets can range from 0 to 255.
 
-- This means if the cidr block is /8 there are 3 octets that are mutable
+- The total number of IP addresses is calculated using `256^n`, where `n` is the number of mutable octets:
+  - `/24` → 1 octet mutable → `256` addresses.
+  - `/16` → 2 octets mutable → `65,536` addresses.
 
-  - 10.0.0.0/8 (all 0s are mutable to be any value between 0 and 255 while the 10 is fixed)
+## Snakety Snake
 
-- Total amount of IP address for each full octet would be as follows 256^n
+---
 
-  - where n is a number dependent on the amount of octets mutable /24 1 octet is mutable so value would be n meaning 256 free addresses, while /16 n would be 2 because 2 octets are mutable so n is 2 meaning 65,536 free addresses
+### Requests with the HTTPX Library
+
+#### Sending Requests with a Body
+
+- When you need to include a request body, it's often best to use `httpx.request` instead of the shorthand methods like `httpx.delete` or `httpx.post`.
+  - This approach allows you to pass a Python dictionary as a JSON object via the `json` argument for cleaner, more accurate request bodies.
+
+##### Code Example
+
+```python
+
+def delete_customer_api(customer_number: str, api: str) -> str:
+    headers = {"x-api-key": os.getenv("TEST_API_KEY")}
+    body = {"customer_number": customer_number, "api": api}
+
+    url = "https://test.execute-api.us-east-1.amazonaws.com/test/customer/API"
+
+    response = httpx.request(method="DELETE", url=url, headers=headers, json=body)
+
+    return response.status_code
+```
+
+---
+
+![Cranial Creator](./assets/cranialCreator.png)
