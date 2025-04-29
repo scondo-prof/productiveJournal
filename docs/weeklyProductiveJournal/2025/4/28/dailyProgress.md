@@ -347,8 +347,10 @@ output "natName" {
 - Practiced **short-long** chord patterns
 - Practiced **long-short-short-short** chord patterns
 - Practiced **short-short-short-long** chord patterns
-- **Chord Switching Practice**:
-  - I can now comfortably shift between all major chords (excluding sharps and flats for now)
+
+#### Chord Switching Practice
+
+- I can now comfortably shift between all major chords (excluding sharps and flats for now)
 
 ---
 
