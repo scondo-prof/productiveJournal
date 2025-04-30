@@ -57,7 +57,7 @@
 
 ```python
 
-def delete_customer_api(customer_number: str, api: str) -> str:
+def delete_customer_api(customer_number: str, api: str) -> int:
     headers = {"x-api-key": os.getenv("TEST_API_KEY")}
     body = {"customer_number": customer_number, "api": api}
 
