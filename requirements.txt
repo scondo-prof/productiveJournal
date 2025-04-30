@@ -1,0 +1,10 @@
+annotated-types==0.7.0
+ansible==11.2.0
+ansible-core==2.18.2
+pydantic==2.11.4
+pydantic_core==2.33.2
+resolvelib==1.0.1
+setuptools==78.1.1
+typing-inspection==0.4.0
+typing_extensions==4.13.2
+wheel==0.45.1
