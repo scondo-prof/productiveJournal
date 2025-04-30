@@ -1,5 +1,4 @@
 from typing import Optional
-
 from pydantic import BaseModel
 
 
@@ -13,11 +12,7 @@ class License(BaseModel):
 
 def harvest_organs(drivers_license: dict[str, any]) -> bool:
     drivers_license = License(**drivers_license)
-
-    if drivers_license.organ_donor:
-        return True
-    else:
-        return False
+    return drivers_license.organ_donor
 
 
 if __name__ == "__main__":
@@ -45,7 +40,5 @@ if __name__ == "__main__":
     }
 
     print(harvest_organs(drivers_license=drivers_license_full_pass))
-
     print(harvest_organs(drivers_license=drivers_license_not_full_pass))
-
     print(harvest_organs(drivers_license=drivers_license_fail))
