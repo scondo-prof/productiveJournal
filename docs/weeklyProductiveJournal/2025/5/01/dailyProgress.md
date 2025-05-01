@@ -1,6 +1,67 @@
 # Day in Packagestan
 
+## Tickling the Ivories, Not the Ovaries
+
+### Technique Training
+
+#### E Major Chord Progression
+
+- Practiced **long-short** rhythmic chord progressions
+- Practiced **short-long** rhythmic chord progressions
+- Practiced **long-short-short-short** progression patterns
+- Practiced **short-short-short-long** progression patterns
+
+These exercises helped build finger independence, rhythmic accuracy, and comfort shifting between different hand placements.
+
+---
+
+### Song Learning
+
+#### "I" by Old Gray
+
+- Confidently performing the full piece with minimal errors
+- Focused on maintaining consistent tempo and expressive phrasing
+
+#### "II" by Old Gray
+
+- Walked through songs entirety with the higher octave hand
+- Lower Octave will follow
+- Working on mental note recall by subvocalizing each note while playing
+
+---
+
+### Creative Exploration
+
+#### D Minor Pattern
+
+- **Tempo**: `♩ = 120` BPM (quarter note = 120 beats per minute)
+- **Setup**:
+  - Right hand: place thumb on upper octave D, with fingers on E, F, G, A
+  - Left hand: mirror the same setup on a lower octave
+
+#### Execution:
+
+- **Right hand**:
+  - Play D repeatedly at 8th note intervals (twice per beat)
+  - Every half note (2 beats), randomly play a secondary note (E–A) simultaneously with D
+- **Left hand**:
+  - Mirror the right hand's notes during simultaneous presses
+
+#### Variation:
+
+- Occasionally switch from the 8th note rhythm to a quarter note rhythm on D
+  - Interject a different secondary note (A–E) alternating with D
+  - Left hand mirrors the right-hand rhythm and melody
+
+#### Result:
+
+- Creates a fast-paced eerie melody in D Minor
+
+---
+
 ## Snakety Snake
+
+---
 
 ### Managing Imports
 
