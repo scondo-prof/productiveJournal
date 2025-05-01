@@ -121,3 +121,5 @@ The common ground? `requirements.txt` or `pyproject.toml`.
 ---
 
 Keep your environments lean, your packages locked, and your imports clean. **OR ELSE** The snakes of Packagestan will _HAUNT YOUR DREAMS_.
+
+![Snake of Packagestan](./assets/snakeOfPackagestan.png)
