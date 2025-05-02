@@ -183,4 +183,111 @@ The common ground? `requirements.txt` or `pyproject.toml`.
 
 Keep your environments lean, your packages locked, and your imports clean. **OR ELSE** The snakes of Packagestan will _HAUNT YOUR DREAMS_.
 
+---
+
+## theToolKit Repository
+
+---
+
+### `s3_upload.py`
+
+#### Implementation with Async
+
+It is wise to think about the ability to upload many objects to S3 asynchronously. Thus, I am utilizing the `aioboto3` Python library in combination with `asyncio`.
+
+The first day of attempting this implementation has not succeeded. The `upload_s3_obj` function reaches the first print statement but does not return from either the `try` or the `except` block.
+
+I also constructed a `bulk_s3_upload` function that:
+
+- Grabs all files and file paths from the directory it is called from
+- Bundles those files into a list of individual function calls to the async `upload_s3_obj` function
+- Gathers and runs those tasks using `asyncio.gather()`
+
+The `bulk_s3_upload` currently works as intended for both file gathering and file naming.
+
+---
+
+##### Code
+
+```python
+import asyncio
+import os
+import sys
+
+import aioboto3
+from boto3.s3.transfer import TransferConfig
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+from utils.files_and_directories import list_files_recursively, move_file
+
+
+async def upload_s3_obj(file_name: str, s3_path: str) -> str:
+    bucket_name = os.getenv("S3_BUCKET")
+
+    config = TransferConfig(
+        multipart_threshold=1024 * 8,
+        max_concurrency=16,
+        multipart_chunksize=1024 * 16,
+        use_threads=True,
+    )
+
+    print(f"About to upload file with S3 key: {s3_path}")
+    try:
+        async with aioboto3.client(
+            "s3",
+            config=aioboto3.session.Config(s3={"use_accelerate_endpoint": True}),
+        ) as s3_client:
+            # Run the blocking upload_file in a thread to avoid blocking the event loop
+            await asyncio.to_thread(
+                s3_client.upload_file,
+                Filename=file_name,
+                Bucket=bucket_name,
+                Key=s3_path,
+                Config=config,
+            )
+        return f"Successfully Uploaded {s3_path}"
+    except Exception as e:
+        return f"Failed Upload for {s3_path}: {e}"
+
+
+async def bulk_s3_upload(s3_path: str) -> list[str]:
+    dir_path = os.getcwd()
+    all_files = list_files_recursively(dir_path)
+    results = []
+
+    async def upload_task(file_path: str, s3_path: str):
+        relative_path = os.path.relpath(file_path, start=dir_path)
+
+        s3_key = relative_path.replace(os.sep, "/")  # S3 expects forward slashes
+        s3_key = s3_path + s3_key
+
+        result = await upload_s3_obj(file_name=file_path, s3_path=s3_key)
+        return result
+
+    tasks = [upload_task(file_path=file_path, s3_path=s3_path) for file_path in all_files]
+    results = await asyncio.gather(*tasks)
+    return results
+
+
+asyncio.run(bulk_s3_upload(s3_path="test/"))
+
+```
+
+##### Test Output
+
+###### Command Line Output
+
+![command line output](./assets/bulk_s3_upload_command_line_results.png)
+
+###### Target Directory Structure
+
+![Target Directory Structure](./assets/bulk_s3_upload_target_directory.png)
+
+---
+
+`*How do you catch a squirrel?*`
+
+`<Simply climb a tree and act like a nut>`
+
 ![Snake of Packagestan](./assets/snakeOfPackagestan.png)
