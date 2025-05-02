@@ -335,7 +335,7 @@ output "natName" {
 }
 ```
 
-## Tickling the Ivories, Not the Ovaries 🎹
+## Tickling the Ivories, Not the Ovaries
 
 ---
 
