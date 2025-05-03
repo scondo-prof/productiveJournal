@@ -128,4 +128,4 @@
 
 - They get a letter " congratutlations you have solved the puzzle, next time tell the cat he should be careful who he tricks, I have left a good amount of trinkets, and a good amount of money scattered about" the letter disintigrates
 
-- 350 gold, worn leather combat boots, wand with a crystal at the top, a trident
+- 350 gold, boots of striding and springing, wand of magic missle, flame tounge trident
