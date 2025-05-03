@@ -120,6 +120,8 @@
 
 ### At the Entrance of the Cart
 
+#### Rewards from Doom Island
+
 - The party wakes up after the fog consumed them on doom island to zorcious
 
 - They discover they have only been there for 1 minute
