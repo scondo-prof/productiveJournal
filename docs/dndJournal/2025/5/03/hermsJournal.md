@@ -94,3 +94,16 @@
 - Fog Lies ahead and as we walk it only shows right in front of the party, kirag leads the charge
 
 - Deacon and I stick behind as the party continues to the right path
+
+- Split up to Prodding Squad (Kirag, Poppy, Lucia, Samwell) and Anchor Squad (Me, Deacon, Sqweemus)
+
+- The Rope Goes Slack and Prodding Squad Now is gone (Azlo Up to Quirky Games)
+
+- In the new area the Prodding squad sees the engravings on the wall where everyone is praising towards the dragon
+- The party gathers at this engraving and the wall lifts revealing a sanctum area
+
+#### The Sanctum
+
+- In the sanctum is a massive Sahuagin In ornate jewels say that he is trapped by the wizard and has no choice but to bathe in the blood of the party
+
+- It ignites the blade and a creature sits attop the obelisk, not identified in my compendium
