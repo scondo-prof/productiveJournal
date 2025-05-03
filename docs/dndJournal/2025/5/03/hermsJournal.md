@@ -107,3 +107,23 @@
 - In the sanctum is a massive Sahuagin In ornate jewels say that he is trapped by the wizard and has no choice but to bathe in the blood of the party
 
 - It ignites the blade and a creature sits attop the obelisk, not identified in my compendium
+
+- The party defeats the Sahuagin and he thanks them as he dies
+
+- Sqweemus Shoots the Wyvern dead by ballista
+
+#### The Gem in the Eye Socket
+
+- Yielding the quote, the party reaches into the empty eye socket to find a lump of coal
+
+- Lucia smashes it in half, causing fog to roll into the sanctum
+
+### At the Entrance of the Cart
+
+- The party wakes up after the fog consumed them on doom island to zorcious
+
+- They discover they have only been there for 1 minute
+
+- They get a letter " congratutlations you have solved the puzzle, next time tell the cat he should be careful who he tricks, I have left a good amount of trinkets, and a good amount of money scattered about" the letter disintigrates
+
+- 350 gold, worn leather combat boots, wand with a crystal at the top, a trident that has recall
