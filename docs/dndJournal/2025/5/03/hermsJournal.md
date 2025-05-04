@@ -92,7 +92,7 @@
   - **Prodding Squad**: `Kirag, Poppy, Lucia, Samwell`
   - **Anchor Squad**: `Me (Herm), Deacon, Sqweemus`
 - Then the rope between us went limp — `Azlo’s` meddling, no doubt.
-- T`he Parties` Then Gathered in Area the **Prodding Squad** Wandered To
+- `The Parties` Then Gathered in Area the **Prodding Squad** Wandered To
 - Inscriptions on the wall laid out details of people praising a flying creature. The wall shifted, revealing a hidden sanctum once they stood united.
 
 ---
