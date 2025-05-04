@@ -135,3 +135,5 @@
 - `Zorcious` said someone is looking to open the `Dragons Hoard`
 - `Zorcious` regained his full divine form and his powers will slowly come back over time
 - `Zorcious` left us with an omen: **something terrible will happen on the final day of the festival.**
+
+![Deacon Herm and Sqweemus Doom Island](./assets/deaconHermSqweemusDoomIsland.png)
