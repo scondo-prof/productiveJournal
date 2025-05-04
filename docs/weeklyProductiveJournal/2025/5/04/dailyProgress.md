@@ -58,3 +58,7 @@ Successfully Uploaded: test/s3_upload.py
 #### PR For Code Implementation
 
 [PR](https://github.com/scondo-prof/theToolKit/pull/12)
+
+#### The Pivot from aiboto3 -> boto3
+
+[Commit](https://github.com/scondo-prof/theToolKit/commit/87744c454162ff30969cf9fdf9814e7a6ee5c616)
