@@ -78,13 +78,13 @@
 
 ---
 
-### The Path to the Eye
+#### The Path to the Eye
 
 - Text scrolled before us in mid-air: _"At the heart of the maze lies what you seek. Within the darkness lies the truth."_
 
 ---
 
-### Entering the Maze
+#### Entering the Maze
 
 - Dense fog covered our view. `Kirag` led.
 - `Deacon, Sqweemus, and I` hung back while the others veered right.
@@ -97,7 +97,7 @@
 
 ---
 
-### The Sanctum
+#### The Sanctum
 
 - Inside stood a massive, jeweled `Sahuagin`. The `Sahuagin` claimed `Azlo` cursed him to seek our blood.
 - His blade ignited, and atop the totum pole sat a creature `I` couldn’t name
@@ -107,7 +107,7 @@
 
 ---
 
-### The Gem in the Eye Socket
+#### The Gem in the Eye Socket
 
 - There was a `Red Gem` in an eye socket and the other eye socket was empty
 - The `Red Gem` was oberved, but was set aside
@@ -116,9 +116,9 @@
 
 ---
 
-## Back at the Entrance of the Cart
+### Back at the Entrance of the Cart
 
-### Rewards from Doom Island
+#### Rewards from Doom Island
 
 - `We` awoke back at the cart. Only a minute had passed.
 - A letter awaited: _"Congratulations! You solved the puzzle. Next time, tell the cat to be more careful who he tricks. I've left some trinkets and a hefty pile of gold scattered about."_ Then it turned to ash.
@@ -130,7 +130,7 @@
 
 ---
 
-### Zorcious Keeps His Promise
+#### Zorcious Keeps His Promise
 
 - `Zorcious` said someone is looking to open the `Dragons Hoard`
 - `Zorcious` regained his full divine form and his powers will slowly come back over time
