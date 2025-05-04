@@ -74,3 +74,7 @@ Utilizing the bulk_s3_upload function it was very easy to upload the entirety of
 #### The Facts
 
 - the whole premier project directory is identically mimiced in S3 as on my Local Machine
+
+---
+
+![Dancing Robots](./assets/dancingRobots.png)
