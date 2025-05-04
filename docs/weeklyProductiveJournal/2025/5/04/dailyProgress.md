@@ -62,3 +62,15 @@ Successfully Uploaded: test/s3_upload.py
 #### The Pivot from aiboto3 -> boto3
 
 [Commit](https://github.com/scondo-prof/theToolKit/commit/87744c454162ff30969cf9fdf9814e7a6ee5c616)
+
+## Loons at Moose Pond
+
+---
+
+### File Upload
+
+Utilizing the bulk_s3_upload function it was very easy to upload the entirety of the Loons at Moose Pond Premier Project to S3.
+
+#### The Facts
+
+- the whole premier project directory is identically mimiced in S3 as on my Local Machine
