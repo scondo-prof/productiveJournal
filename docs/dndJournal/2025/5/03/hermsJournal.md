@@ -121,7 +121,7 @@
 #### Rewards from Doom Island
 
 - `We` awoke back at the cart. Only a minute had passed.
-- A letter awaited: _"Congratulations! You solved the puzzle. Next time, tell the cat to be more careful who he tricks. I've left some trinkets and a hefty pile of gold scattered about."_ Then it turned to ash.
+- A letter awaited: _"Congratulations! You solved cd the puzzle. Next time, tell the cat to be more careful who he tricks. I've left some trinkets and a hefty pile of gold scattered about."_ Then it turned to ash.
 - We looted:
   - 350 Gold
   - `Boots of Striding and Springing` (Given to `Poppy`)

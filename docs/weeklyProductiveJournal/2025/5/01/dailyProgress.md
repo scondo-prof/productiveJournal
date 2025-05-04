@@ -185,7 +185,7 @@ Keep your environments lean, your packages locked, and your imports clean. **OR 
 
 ---
 
-## theToolKit Repository
+## [theToolKit Repository](https://github.com/scondo-prof/theToolKit)
 
 ---
 

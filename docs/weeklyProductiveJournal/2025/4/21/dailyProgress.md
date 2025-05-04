@@ -18,7 +18,7 @@
 
 ---
 
-## 📓 Journal Repository
+## 📓 [productiveJournal Repository](https://github.com/scondo-prof/productiveJournal)
 
 - Created GitHub repository where this markdown file lives.
 - Set up the first iteration of the directory structure and `readme.md` layout.
