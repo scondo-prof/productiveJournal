@@ -87,7 +87,7 @@
 ### Entering the Maze
 
 - Dense fog covered our view. `Kirag` led.
-- `Deacon and I` hung back while the others veered right.
+- `Deacon, Sqweemus, and I` hung back while the others veered right.
 - We split into two squads:
   - **Prodding Squad**: `Kirag, Poppy, Lucia, Samwell`
   - **Anchor Squad**: `Me (Herm), Deacon, Sqweemus`
