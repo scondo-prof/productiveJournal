@@ -2,138 +2,136 @@
 
 ## Thursday (Continued)
 
+---
+
 ### Doom Island
 
-#### The swamp
+#### The Swamp
 
-- I cast mold earth to create the swamp from diffiecult terrain to normal turrain
-
-#### The Canopy
-
-- We Climb the vines and end up on top of the tree cover
-
-##### Swinging Challenge
-
-- Snakes start falling from the trees
-
-- Kirag tarzan swings a snake and passes his check
-
-- Sqweemus Falls from the vine as a snake bites her, due to it being a game, the failed check forced her to lose one of her 3 lives
-
-- Samwell falls and loses a life
-
-#### We Out the Canopy and to The Rushing Water
-
-##### Da Boat
-
-- rests easy on an extremely raging river against the laws of physics
-
-###### Da Boat on da Move
-
-- The boat starts moving up river easily
-
-- There are creatures in the water
-
-- Steering the boat causes the whole boat to shift to a different "lane" like a video game
-
-####### Defend the boat
-
-- Sahuagin creatures emerge from the water
-- I knock an attacking Sahuagin into the water
-- Boat has 40 Fuel(health)
-- Rocks form in the water and it takes an action to steer the boat to move the boat each turn
-- Sahuagin Damage the Boat Causing Fuel to Begin to Drop
-- falling in the water causes instant death found out by kirag being shoved into the water
+- I called upon `Mold Earth` to reshape the swamp, clearing the difficult terrain into something far more manageable for travel.
 
 ---
 
-######## Health Standing
+#### The Canopy
 
-- Kirag: 2
+- We climbed the thick vines and found ourselves above the treetop canopy, the jungle stretching endlessly below.
 
-- Samwell: 2
+##### Swinging Challenge
 
-- Sqweemus: 2
+- Snakes began dropping from the trees without warning.
+- `Kirag`, ever the showman, swung from a vine mid-air and snagged a falling snake in a whirling motion. Man of immense vigor
+- `Sqweemus` wasn’t as lucky — a snake bit her mid-swing, and she plummeted, losing one of her three precious lives.
+- `Samwell` fumbled too and lost a life in the fall.
 
-- Deacon: 3
+---
 
-- Lucia: 3
+#### Out of the Canopy and to the Rushing Waters
 
-- Poppy: 3
+##### **Da Boat**
 
-- Herm: 3
+- We stumbled upon a boat calmly sitting on a raging river. Logic-defying, but welcome.
 
-####### Defend the boat Continued
+##### **Da Boat** on **Da Move**
 
-- We spent time shifting the boat and fending the boat off from Sahuagin scum
+- Once `we` boarded, it surged upriver like it belonged there.
+- Strange creatures stirred in the water.
+- **Da Boat** shifted between invisible lanes with every steer, reminding me more of a tavern game than a river journey.
 
-- Boat Approached a Complete Blockage in the river, the party blasted the rock finished by Me Launching a pen through the rock obliterating it
+##### Defend **Da Boat**
 
-- The waterfall approached and the boat scaled the waterfall sumitting at the top in calm water
+- The Creatures Identified as `Sahuagin` from previous research, launched themselves from the depths.
+- `I` managed to knock one clean back into the water with a burst of wind from the `Gust Spell`
+- **Da Boat** had 40 "fuel" or health points — yeah, that’s a thing now.
+- Steering required effort each round.
+- The `Sahuagin` started damaging the hull — and fast.
+- `Kirag` was shoved into the water and instantly vanished. That’s when we learned the water meant certain death. He re-appeared in the stern of **Da Boat**
 
-#### Summit Waterfall the Calm Water
+##### Health Standing
+
+- `Kirag`: **2 lives**
+- `Samwell`: **2 lives**
+- `Sqweemus`: **2 lives**
+- `Deacon`: **3 lives**
+- `Lucia`: **3 lives**
+- `Poppy`: **3 lives**
+- `Herm (Me)`: **3 lives**
+
+##### **Da Boat** Defense Continued
+
+- `We` kept fending off wave after wave and navigating the chaos.
+- The river blocked entirely at one point — we blew it apart. `I` hurled a pen through the last chunk like a true arcane warrior.
+- **Da Boat** somehow scaled a vertical waterfall and glided smoothly into tranquil water at the summit.
+
+---
+
+#### Summit Waterfall — The Calm Waters
 
 ##### The Shore
 
-- Vibrant foiliage
-
-- Statues Reminiscing mayan ruins
-
-- Statues of Serpants
+- Lush, vibrant foliage surrounded us. Jungle paradise.
+- Stonework and statues reminded me of old Civilization ruins.
+- Serpent effigies loomed large — foreboding yet elegant.
 
 ##### The Pier
 
-- The boat pulls up and docks calmly
+- **Da Boat** glided forward and docked itself as if summoned.
 
-#### The Path to The Eye
+---
 
-- Text Appears: "At the heart of the maze lies what you seek, within the darkness lies the truth"
+### The Path to the Eye
 
-#### Enter the Maze
+- Text scrolled before us in mid-air: _"At the heart of the maze lies what you seek. Within the darkness lies the truth."_
 
-- Fog Lies ahead and as we walk it only shows right in front of the party, kirag leads the charge
+---
 
-- Deacon and I stick behind as the party continues to the right path
+### Entering the Maze
 
-- Split up to Prodding Squad (Kirag, Poppy, Lucia, Samwell) and Anchor Squad (Me, Deacon, Sqweemus)
+- Dense fog covered our view. `Kirag` led.
+- `Deacon and I` hung back while the others veered right.
+- We split into two squads:
+  - **Prodding Squad**: `Kirag, Poppy, Lucia, Samwell`
+  - **Anchor Squad**: `Me (Herm), Deacon, Sqweemus`
+- Then the rope between us went limp — Azlo’s meddling, no doubt.
+- The Parties Then Gathered in Area the Prodding Squad Wandered To
+- The others found carvings of people praising a dragon. The wall shifted, revealing a hidden sanctum once they stood united.
 
-- The Rope Goes Slack and Prodding Squad Now is gone (Azlo Up to Quirky Games)
+---
 
-- In the new area the Prodding squad sees the engravings on the wall where everyone is praising towards the dragon
-- The party gathers at this engraving and the wall lifts revealing a sanctum area
+### The Sanctum
 
-#### The Sanctum
+- Inside stood a massive, jeweled `Sahuagin`. He claimed the wizard cursed him to seek our blood.
+- His blade ignited, and atop the totum pole sat a creature `I` couldn’t name
+- `We` fought hard. Eventually, we brought him down. `He` thanked us as he faded.
+- `Sqweemus` landed a perfect shot with the ballista, killing the lurking Creature before it could act.
+- The Creature is identified as a `Wyvern` added to my Compendium
 
-- In the sanctum is a massive Sahuagin In ornate jewels say that he is trapped by the wizard and has no choice but to bathe in the blood of the party
+---
 
-- It ignites the blade and a creature sits attop the obelisk, not identified in my compendium
+### The Gem in the Eye Socket
 
-- The party defeats the Sahuagin and he thanks them as he dies
+- There was a `Red Gem` in an eye socket and the other eye socket was empty
+- The `Red Gem` was oberved, but was set aside
+- Acting on the earlier clue, `Lucia` reached into the petrified `Wyverns` eye socket and found a lump of coal.
+- `Lucia`, ever impulsive, smashed it. Fog rolled in instantly, shrouding the sanctum.
 
-- Sqweemus Shoots the Wyvern dead by ballista
+---
 
-#### The Gem in the Eye Socket
+## Back at the Entrance of the Cart
 
-- Yielding the quote, the party reaches into the empty eye socket to find a lump of coal
+### Rewards from Doom Island
 
-- Lucia smashes it in half, causing fog to roll into the sanctum
+- `We` awoke back at the cart. Only a minute had passed.
+- A letter awaited: _"Congratulations! You solved the puzzle. Next time, tell the cat to be more careful who he tricks. I've left some trinkets and a hefty pile of gold scattered about."_ Then it turned to ash.
+- We looted:
+  - 350 Gold
+  - `Boots of Striding and Springing` (Given to `Poppy`)
+  - `Wand of Magic Missile` (Given to `Deacon`)
+  - `Flame Tongue Trident` (Given to `Kirag`)
 
-### At the Entrance of the Cart
+---
 
-#### Rewards from Doom Island
+### Zorcious Keeps His Promise
 
-- The party wakes up after the fog consumed them on doom island to zorcious
-
-- They discover they have only been there for 1 minute
-
-- They get a letter " congratutlations you have solved the puzzle, next time tell the cat he should be careful who he tricks, I have left a good amount of trinkets, and a good amount of money scattered about" the letter disintigrates
-
-- 350 gold, boots of striding and springing, wand of magic missle, flame tounge trident
-
-#### Zorcious End of the bargain
-
-- someone wishes to open the dragons hoard
-
-- gets his powers back
-
-- as a god, omens are a thing, on the final day of the festival, something poor will occur
+- `Zorcious` said someone is looking to open the `Dragons Hoard`
+- `Zorcious` regained his full divine form and his powers will slowly come back over time
+- `Zorcious` left us with an omen: **something terrible will happen on the final day of the festival.**
