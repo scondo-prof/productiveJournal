@@ -91,15 +91,15 @@
 - We split into two squads:
   - **Prodding Squad**: `Kirag, Poppy, Lucia, Samwell`
   - **Anchor Squad**: `Me (Herm), Deacon, Sqweemus`
-- Then the rope between us went limp — Azlo’s meddling, no doubt.
-- The Parties Then Gathered in Area the Prodding Squad Wandered To
-- The others found carvings of people praising a dragon. The wall shifted, revealing a hidden sanctum once they stood united.
+- Then the rope between us went limp — `Azlo’s` meddling, no doubt.
+- T`he Parties` Then Gathered in Area the **Prodding Squad** Wandered To
+- Inscriptions on the wall laid out details of people praising a flying creature. The wall shifted, revealing a hidden sanctum once they stood united.
 
 ---
 
 ### The Sanctum
 
-- Inside stood a massive, jeweled `Sahuagin`. He claimed the wizard cursed him to seek our blood.
+- Inside stood a massive, jeweled `Sahuagin`. The `Sahuagin` claimed `Azlo` cursed him to seek our blood.
 - His blade ignited, and atop the totum pole sat a creature `I` couldn’t name
 - `We` fought hard. Eventually, we brought him down. `He` thanked us as he faded.
 - `Sqweemus` landed a perfect shot with the ballista, killing the lurking Creature before it could act.
