@@ -1,67 +1,67 @@
-# Day of Coding and Cranking that Soulja Boy
+# Day of Coding and Cranking That Soulja Boy
 
 ## [theToolKit Repository](https://github.com/scondo-prof/theToolKit)
 
 ---
 
-### upload_s3_obj() && bulk_s3_upload()
+### `upload_s3_obj()` & `bulk_s3_upload()`
 
-#### aiboto3 Implimentation
+#### aiboto3 Implementation
 
-Jamming to niminio [Creek Album](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk?si=zZrugydLRbeWFs3XlQWiAw) while diving into the 1s and 0s
+Jamming to niminio’s [Creek Album](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk?si=zZrugydLRbeWFs3XlQWiAw) while diving deep into the ones and zeros.
 
 ##### Corrected Syntax
 
-Utilized aiboto3.Session in conjunction with async, then turned the session into an s3 client named s3_client. From there all generic boto3 calls worked asynchronusly as intended
+I used `aioboto3.Session` with `asyncio` to create an S3 client (`s3_client`). From there, all standard `boto3` calls executed asynchronously as intended.
 
-Example Run
+##### Example Run
 
-```
+```powershell
 (tools-env) PS C:\Users\scott\Documents\github\tools\tools\videographyTools> python .\s3_upload.py
-Files Gathered and Ready For Upload
+Files gathered and ready for upload
 ---
 Gathered File: C:\Users\scott\Documents\github\tools\tools\videographyTools\s3_upload.py
-To be Uploaded To
 S3 Key: test/s3_upload.py
 About to upload file with S3 key: test/s3_upload.py
 Inside Catch
-session made
+Session established
 ---
 Gathered File: C:\Users\scott\Documents\github\tools\tools\videographyTools\youtube_to_mp3.py
-To be Uploaded To
 S3 Key: test/youtube_to_mp3.py
 About to upload file with S3 key: test/youtube_to_mp3.py
 Inside Catch
-session made
+Session established
 ---
 Gathered File: C:\Users\scott\Documents\github\tools\tools\videographyTools\__init__.py
-To be Uploaded To
 S3 Key: test/__init__.py
 About to upload file with S3 key: test/__init__.py
 Inside Catch
-session made
+Session established
 ---
 Gathered File: C:\Users\scott\Documents\github\tools\tools\videographyTools\videos\wow.txt
-To be Uploaded To
 S3 Key: test/videos/wow.txt
 About to upload file with S3 key: test/videos/wow.txt
 Inside Catch
-session made
-Successfully Uploaded: test/__init__.py
-Successfully Uploaded: test/videos/wow.txt
-Successfully Uploaded: test/youtube_to_mp3.py
-Successfully Uploaded: test/s3_upload.py
+Session established
+Successfully uploaded: test/__init__.py
+Successfully uploaded: test/videos/wow.txt
+Successfully uploaded: test/youtube_to_mp3.py
+Successfully uploaded: test/s3_upload.py
 ```
 
 ---
 
-#### PR For Code Implementation
+#### Pull Request for Implementation
 
-[PR](https://github.com/scondo-prof/theToolKit/pull/12)
+[Pull Request #12](https://github.com/scondo-prof/theToolKit/pull/12)
 
-#### The Pivot from aiboto3 -> boto3
+---
 
-[Commit](https://github.com/scondo-prof/theToolKit/commit/87744c454162ff30969cf9fdf9814e7a6ee5c616)
+#### Pivot from `aiboto3` to `boto3`
+
+[Commit 87744c4](https://github.com/scondo-prof/theToolKit/commit/87744c454162ff30969cf9fdf9814e7a6ee5c616)
+
+---
 
 ## Loons at Moose Pond
 
@@ -69,11 +69,30 @@ Successfully Uploaded: test/s3_upload.py
 
 ### File Upload
 
-Utilizing the bulk_s3_upload function it was very easy to upload the entirety of the Loons at Moose Pond Premier Project to S3.
+Using the `bulk_s3_upload` function made it seamless to upload the entire _Loons at Moose Pond_ Premiere project directory to S3.
 
-#### The Facts
+#### Highlights
 
-- the whole premier project directory is identically mimiced in S3 as on my Local Machine
+- The full project directory structure on S3 matches exactly what’s on my local machine.
+
+---
+
+### Rendering on EC2
+
+#### Rendering the Uploaded Project Files
+
+- The rendered output was suboptimal: playback remained jittery, likely due to remnants from prior renders.
+- Attempted to de-render and re-render resulted in an encoding error
+
+#### Upgrading the EC2 Instance
+
+- Tried upgrading from a `g5.2xlarge` instance (**8 vCPUs**, **32 GiB RAM**, **24 GiB GPU Memory**) to a g5.8xlarge (**32 vCPUs**, **128 GiB RAM**, **24 GiB GPU Memory**), but hit AWS service quotas.
+
+- Submitted a service quota increase request.
+
+![Service Quota Request](./assets/serviceQuotaRequest.png)
+
+- Terminated the old EC2 instance. Will provision the new one once the quota is approved.
 
 ---
 
