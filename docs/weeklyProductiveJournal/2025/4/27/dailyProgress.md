@@ -25,7 +25,7 @@
 - Iterated through multiple layout structures for GitHub Pages.
 - Finalized the current layout, configured in the `mkdocs.yaml` file located at the root of this repository.
 
-## theToolKit Repository
+## [theToolKit Repository](https://github.com/scondo-prof/theToolKit)
 
 ---
 
