@@ -13,19 +13,33 @@ One of my biggest gripes with PYYYYTHHHONNNN is how loose it can feel when you d
 ```python
 
 def throw_rocks(at_car: bool, how_hard: int, scapegoat: str) -> dict[str, any]:
-    # Determine if you’re in trouble based on how hard you throw
+    """
+    Launch some rocks and see what chaos unfolds.
+
+    You’re armed with stones, a target (maybe a car?), and a cunning plan to pass the blame.
+
+    Args:
+        at_car (bool): True to aim at a car, False for general mischief.
+        how_hard (int): Strength of your throw (0 = gentle tap, 100 = meteor strike).
+        scapegoat (str): Name of your unwitting fall guy for this stunt.
+
+    Returns:
+        dict[str, any]: A playful summary of the aftermath including:
+            - in_trouble (bool): Whether you’ve earned a scolding or worse.
+            - money_owed (int): Currency you owe for any broken windows.
+            - status (str): Your rock‑throwing persona (e.g., “Pro Rock Athlete”).
+    """
+
     if how_hard > 12:
         in_trouble: bool = True
     else:
         in_trouble: bool = False
 
-    # Calculate money owed for hitting the car
     if at_car:
         money_owed: int = 17
     else:
         money_owed: int = 0
 
-    # Adjust status if you blame someone else
     if scapegoat == "brittany":
         in_trouble = False
         status: str = "Cool as a Cucumber"
@@ -35,11 +49,8 @@ def throw_rocks(at_car: bool, how_hard: int, scapegoat: str) -> dict[str, any]:
     else:
         status: str = "Pro Rock Athlete"
 
-    return {
-        "in_trouble": in_trouble,
-        "money_owed": money_owed,
-        "status": status
-    }
+    return {"in_trouble": in_trouble, "money_owed": money_owed, "status": status}
+
 ```
 
 Notice how every variable carries its intended type right alongside its assignment. That extra clarity helps catch bugs early and makes your code more self‑documenting.
@@ -47,3 +58,7 @@ Notice how every variable carries its intended type right alongside its assignme
 `Why do snakes read self-improvement books?`
 
 `They’re trying to shed their old skin.`
+
+---
+
+![Monkai Of Typing](./assets/monkaiOfTyping.png)
