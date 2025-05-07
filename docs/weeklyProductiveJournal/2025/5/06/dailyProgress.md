@@ -59,6 +59,36 @@ Notice how every variable carries its intended type right alongside its assignme
 
 `They’re trying to shed their old skin.`
 
+## Tickling the Ivories, Not the Ovaries
+
+### Song Practice
+
+#### II by Old Gray
+
+Continued to strive on learning the key progression for this song. My tempo is a bit off, but the chords are coming along
+
+#### I by Old Gray
+
+It is at that point where this song is played for fun when the mood strikes. Tonight the mood striked with an open window and rainfall
+
+## Strokin not Pokin
+
+### Stroke Practice
+
+#### Genie in the Bottle
+
+- Utilized a water bottle to practice stroking my pool stick. I noticed a wobble in my upper arm in the draw back which was corrected by elevating my elbow a bit higher and a touch more in.
+
+- My pattern of hitting a ball from hence forth will follow thus,
+
+1. Assess angle of object ball
+2. Get down into position and listen to body
+3. If body indicates angle is off, get up and start over
+4. Get down into position placing the tip of the cue roughly the length of a quarter away from the cue ball
+5. Draw the stick back full stroke extension and bring back to intended spot on the cueball to hit
+6. Re Do stroke but this time hit cue ball
+7. Follow Through in exagerated mannor
+
 ---
 
 ![Monkai Of Typing](./assets/monkaiOfTyping.png)
