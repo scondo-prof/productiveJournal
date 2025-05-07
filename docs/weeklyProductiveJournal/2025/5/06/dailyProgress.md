@@ -6,7 +6,7 @@
 
 #### PEP 484
 
-One of my biggest gripes with PYYYYTHHHONNNN is how loose it can feel when you don’t clearly declare the types you’re working with. But fear not, `Pydantic` modeling (see April 30th, 2025) demonstrates one way to add strong typing. _Parameter_ and _Return Type_ hints for functions are also introduced by the same `PEP`, namely `PEP 484`, which lays the foundation not only for typing function parameters and return values but also for _Variable Annotation_. _Variable Annotation_ further extends that clarity by letting you specify the expected type of any variable. Think of it as taking the explicitness of your function signatures and applying it to all your local variables. It’s simple, immensely helpful, and should be part of every Pythonista’s toolbox.
+One of my biggest gripes with PYYYYTHHHONNNN is how loose it can feel when you don’t clearly declare the types you’re working with. But fear not, `Pydantic` modeling (see April 30th, 2025) demonstrates one way to add strong typing. _Parameter_ and _Return Type_ hints for functions are also introduced by the same `PEP`, namely `PEP 484`, which lays the foundation not only for typing function parameters and return values but also for _Variable Annotation_. _Variable Annotation_ further extends that clarity by letting you specify the expected type of any variable. Think of it as taking the explicitness of your function signatures and applying it to all your local variables.
 
 ##### Code Example
 
