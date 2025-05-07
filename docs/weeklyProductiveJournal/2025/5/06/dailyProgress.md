@@ -65,29 +65,31 @@ Notice how every variable carries its intended type right alongside its assignme
 
 #### II by Old Gray
 
-Continued to strive on learning the key progression for this song. My tempo is a bit off, but the chords are coming along
+I continued working on the key progression for this song. My tempo is still a bit off, but the chord transitions are improving.
 
 #### I by Old Gray
 
-It is at that point where this song is played for fun when the mood strikes. Tonight the mood striked with an open window and rainfall
+This piece is reserved for those moments when I simply want to play for enjoyment. Tonight, the open window and gentle rainfall created the perfect atmosphere to let it flow.
 
-## Strokin not Pokin
+## Strokin’ Not Pokin’
 
 ### Stroke Practice
 
-#### Genie in the Bottle
+#### Genie in a Bottle
 
-- Utilized a water bottle to practice stroking my pool stick. I noticed a wobble in my upper arm in the draw back which was corrected by elevating my elbow a bit higher and a touch more in.
+- I used a water bottle to practice my pool cue stroke. During the back half of the stroke, I noticed a wobble in my upper arm, which I corrected by raising my elbow slightly and adjusting its angle.
 
-- My pattern of hitting a ball from hence forth will follow thus,
+- Moving forward, my cue stroke will follow these steps:
 
-1. Assess angle of object ball
-2. Get down into position and listen to body
-3. If body indicates angle is off, get up and start over
-4. Get down into position placing the tip of the cue roughly the length of a quarter away from the cue ball
-5. Draw the stick back full stroke extension and bring back to intended spot on the cueball to hit
-6. Re Do stroke but this time hit cue ball
-7. Follow Through in exagerated mannor
+  1. Assess the angle of the object ball.
+  2. Lower into position and check alignment with body.
+  3. If body signals the angle is off, stand up and realign.
+  4. Lower into position again, placing the cue tip about a quarter’s length from the cue ball.
+  5. Draw the cue back in a full stroke, then pause at the intended contact point.
+  6. Execute the stroke, striking the cue ball.
+  7. Finish with an exaggerated follow-through.
+
+`This bottle training is invaluable for practicing the same stroke length at varying speeds. Each hit maintains identical mechanics but differs only in velocity, helping you adapt to the feel of different cloth.`
 
 ---
 
