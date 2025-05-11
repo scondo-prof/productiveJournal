@@ -1,11 +1,8 @@
 # Day of Mustaches and Melody
 
-#### Node Agent Configuration
+## CI/CD
 
-- **SSH‑Based Node:** Added the TGBFS web‑app server as a Jenkins agent via SSH.
-- **Security Group Alignment:** The web‑app security group permits SSH (port 22) only from the Jenkins server’s security group.
-- **Credentials Management:** The PEM key for the web‑app server is securely stored in Jenkins credentials.
-- **Tag‑Driven Workload:** Jenkins projects tagged to match agent tags will execute builds on that agent.
+### Jenkins with GitHub Actions
 
 #### GitHub CI/CD via Freestyle Job
 
