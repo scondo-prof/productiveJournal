@@ -63,7 +63,7 @@
 
 ---
 
-## Feeling the Felt
+## Feelin the Felt
 
 ### Yale Billiards Session
 

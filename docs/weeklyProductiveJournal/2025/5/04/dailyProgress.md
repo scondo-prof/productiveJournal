@@ -63,7 +63,7 @@ Successfully uploaded: test/s3_upload.py
 
 ---
 
-## Loons at Moose Pond
+## The Video Smoother
 
 ---
 
