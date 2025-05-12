@@ -2,16 +2,20 @@
 
 ## CI/CD
 
-### Jenkins with GitHub Actions
+### Jenkins & GitHub Actions Integration
 
-#### GitHub CI/CD via Freestyle Job
+#### Freestyle Job in Jenkins
 
-- **Authentication Challenge:** GitHub deprecated basic auth, so we generated a Fine‑Grained PAT for the TGBFS repo and stored it as a Jenkins secret.
-- **Remote Build Trigger:** Jobs are configured with a trigger token; authenticated via Jenkins API key to start builds remotely.
+- **Authentication Workaround**
+  GitHub removed basic authentication, so I created a fine‑grained Personal Access Token for the test repository and stored it securely as a Jenkins credential.
+- **Remote Build Trigger**
+  Each job is configured with a trigger token. Jenkins uses its API key and this token to authenticate and initiate builds remotely.
   ![Freestyle Project Trigger](./assets/jekninsProjectExampleTrigger.png)
-- **Secure Environment Injection:** Check **Use secret text(s) or file(s)** in job configuration to inject the PAT and other credentials.
+- **Secure Environment Injection**
+  Under **Build Environment**, enable **Use secret text(s) or file(s)** to inject the GitHub PAT and any other sensitive credentials into the build.
   ![Freestyle Project Environment](./assets/jenkinsProjectExampleEnvironment.png)
-- **Build Steps:** An **Execute Shell** step runs a script to pull from GitHub and launch the application:
+- **Build Steps**
+  A single **Execute Shell** step pulls the latest code and launches the application:
 
   ```bash
   gh auth login --with-token < $GITHUB_PAT_TXT
@@ -24,9 +28,10 @@
   python main.py
   ```
 
-#### GitHub Actions → Jenkins Trigger
+#### Triggering Jenkins from GitHub Actions
 
-- **Workflow YAML:** A GitHub Actions workflow uses `curl` with Jenkins credentials to trigger the Jenkins job when code is pushed or manually dispatched:
+- **Workflow Definition**
+  A GitHub Actions workflow uses `curl` with Jenkins credentials to trigger the Jenkins job on each push to `main` or via manual dispatch:
 
   ```yaml
   name: Trigger Jenkins Job
@@ -41,16 +46,59 @@
     trigger-jenkins:
       runs-on: ubuntu-latest
       steps:
-        - name: Trigger Jenkins via CURL
+        - name: Trigger Jenkins via cURL
           run: |
             curl -X POST \
               -u "${{ secrets.JENKINS_USER }}:${{ secrets.JENKINS_API_KEY }}" \
-              "http://your-elb-dns:8080/job/www/build?token=test-repo"
+              "http://<jenkins-elb-dns>:8080/job/www/build?token=test-repo"
   ```
 
-- **Jenkins URL:** Found under **Dashboard > Manage Jenkins > System > Jenkins URL**.
-- **Trigger Token:** Matches the token specified in the job’s **Trigger builds remotely** field.
+- **Jenkins URL**
+  Locate under **Dashboard > Manage Jenkins > System > Jenkins URL**.
 
-_This setup enables seamless CI/CD: GitHub commits automatically kick off Jenkins builds, and Jenkins agents execute workloads securely within the AWS environment._
+- **Trigger Token**
+  Matches the token defined in the job’s **Trigger builds remotely** configuration.
+
+> **Outcome:** Commits to GitHub now automatically spin up Jenkins builds, and the Jenkins agents execute tasks securely within our AWS environment.
 
 ---
+
+## Feeling the Felt
+
+### Yale Billiards Session
+
+#### Stroke Mechanics & Spin Control
+
+I spent the evening honing my cue stroke and spin technique:
+
+- **Spin Application**
+  Adopting a lower stance made applying spin much smoother. While my accuracy wavered at first, my speed and cue control improved significantly.
+- **Elbow Positioning**
+  I noticed my arm wobbling on full strokes. Raising my elbow slightly and engaging only my pivot arm stabilized my motion.
+- **8‑Ball Break Strategy**
+  Emulated Efren Reyes’ break:
+
+  - Align close to the second diamond along the left rail.
+  - Strike the object ball just behind the head ball, causing a rebound into the rack.
+  - This method often sends the 8‑ball into a side pocket for an early win.
+
+#### Practice Drill
+
+- Rack up eight ball game in a standard triangle formation.
+- Focus on any single ball(could be stripe, solid, or 8): line up, execute a smooth stroke, and observe shot placement.
+- Repeat, adjusting body alignment and stroke speed for consistency.
+
+> **Next Steps:**
+>
+> - Track pocketed balls and break patterns in a simple log to quantify improvement.
+> - Experiment with varying cue ball positions and break angles.
+
+---
+
+_Why was the billiard instructor a great teacher?_
+
+_He knew how to chalk it up to experience!_
+
+---
+
+![The Felt](./assets/theFelt.png)
