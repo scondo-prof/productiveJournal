@@ -1,27 +1,33 @@
-# Day of The River of Light
+# Day of the River of Light
 
-## The Premier
+## The Premiere
 
-### Nightway Between Mt Higby
+### Nightfall Along Mt. Higby
 
-#### Target Vibe
+#### Concept & Mood
 
-It is a stationary shot that watches a highway as it wraps around Mt Higby as the sun sets. As the sunsets it emphasizes the flow of traffic. It will be a large stationary shot simply watching the nights pressence become strong.
+A static, wide shot that frames the highway as it winds around Mt. Higby at sunset. As the sun dips below the horizon, the composition highlights the steady stream of headlights against the darkening mountain silhouette, evoking a sense of time slipping by.
 
-#### Speed
+#### Timing & Playback Speed
 
-Looking like a clip speed of 180% seems like a speed that isnt unrealistically fast, yet carries the passing of time in a mere six minutes.
+To compress six minutes of real-time motion into a compelling clip without looking too surreal, playback will be set to **180% speed**—fast enough to accentuate the dynamic flow, yet still maintain a natural rhythm.
 
-#### Lumitri Settings
+#### Color Grading & Lumetri Presets
 
-Playing between several different looks in Lumitri Creative.
+I experimented with several Lumetri Creative Looks. Two standout options include:
 
-Choices in their `Base Look`:
-
-`Fuji F125 Kodak 2395 (by Adobe):`
+**Fuji F125 Kodak 2395 (Adobe)**
 
 ![Fuji F125 Kodak 2395 (by Adobe)](./assets/baseFujiF125Look.png)
 
-`Sl Gold Orange:`
+**SL Gold Orange**
 
-![Sl Gold Orange](./assets/baseSlGoldOrange.png)
+![SL Gold Orange](./assets/baseSlGoldOrange.png)
+
+> _Sometimes I forget how beautiful mountains are..._
+
+> _I always take them for granite._
+
+---
+
+![Light Floods the Hill](./assets/lightFloodsTheHill.png)
