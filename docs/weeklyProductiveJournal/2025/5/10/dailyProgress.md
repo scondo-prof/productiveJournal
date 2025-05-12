@@ -18,3 +18,7 @@ I submitted an AWS service-quota request and received approval: my account can n
 > 1. Benchmark render times across different G-series instance sizes to find the optimal balance of cost vs performance.
 > 2. Automate spin-up/down of EC2 instances via Terraform and Lambda to minimize idle cost.
 > 3. Explore AWS Thinkbox Deadline or AWS MediaConvert for managed rendering workflows. (Is it worth the price/ time to learn?)
+
+---
+
+![Blur to Focus](./assets/blurToFocus.png)
