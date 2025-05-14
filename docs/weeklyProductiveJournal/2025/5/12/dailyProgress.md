@@ -1,6 +1,6 @@
 # Day of Docs and Docile Night Skies
 
-## Spraying Albuterol and Stamina
+## Spraying Albuterol and Acquiring Stamina
 
 ### Treadmill Tempo Test
 

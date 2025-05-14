@@ -1,6 +1,6 @@
 # Day of Slapping Pavement and Semibreves
 
-## Spraying Albuterol and Stamina
+## Spraying Albuterol and Acquiring Stamina
 
 ### Outdoor Run
 
