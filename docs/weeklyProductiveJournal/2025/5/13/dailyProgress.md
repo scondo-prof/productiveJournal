@@ -4,20 +4,43 @@
 
 ### Outdoor Run
 
-Ran a route outside that is roughly 2 miles. Do not know exact aimed pace, but best way to describe it is of full leg extension and an open running position. I had to break 5 times in various spots. Finished strong with an aggressive sprint.
+- Completed an outdoor route of approximately 2 miles
+- Maintained full-leg extensions and an open running posture
+- Took five short breaks to catch my breath and refine form
+- Closed the session with a powerful all-out sprint, leaving me breathless in the best way
+
+---
 
 ## Tickling the Ivories, Not the Ovaries
 
-### I by Old Gray
+### "I" by Old Gray
 
-Played through this song super comfortable with the tempo, playing with strength of key strikes to build intended emotion.
+- Confidently played through the entire piece at tempo
+- Focused on dynamic key strikes to convey the song’s emotional peaks and valleys
+- Working on fluid transitions between chord voicings for smoother phrasing
 
-### II by Old Gray
+### "II" by Old Gray
 
-the first 10 measures of the song I have done pat. Measures 11-16 are tough because the usually steady left hand progression change, and the right hand progression dances around notes on my pointer, middle and ring fingers.
+- Nailed the first ten measures with consistency
+- Encountering difficulty in measures 11–16 where the left-hand pattern shifts and the right hand leaps across notes on the pointer, middle, and ring fingers
+- Next steps:
 
-### Michael Myer's Theme
+  1. Practice hands-separately at 60% speed
+  2. Use a metronome to gradually increase tempo
+  3. Reinforce muscle memory with repeated, targeted drills
 
-I have worked through the very beginning of the chord progressions. Once I get to the measure indicated in the picture it is tough to move my hands fast enough, accurately while maintaining the fast tempo:
+### Michael Myers’ Theme
 
-![Michael Myers Theme](./assets/michaelMyersThemeMeasureIssue.png)
+- Learned the initial chord progression cleanly
+- Struggle Point: the rapid hand movements and wide stretches in the measure shown below
+- Strategy:
+
+  1. Isolate the challenging measure
+  2. Play slowly with a metronome set to a manageable tempo
+  3. Gradually ramp up speed by 5% increments, focusing on precision before tempo
+
+![Michael Myers Theme Measure Issue](./assets/michaelMyersThemeMeasureIssue.png)
+
+---
+
+![Piano in Nature](./assets/pianoInNature.png)
