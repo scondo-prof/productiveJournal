@@ -40,6 +40,25 @@
 
 ![Michael Myers Theme Measure Issue](./assets/michaelMyersThemeMeasureIssue.png)
 
+## Feelin the Felt
+
+### Stroke Practice
+
+#### Genie in a Bottle
+
+I refined my cue stroke by practicing against the tip of a water bottle, reinforcing techniques I outlined in my [Genie in a Bottle journal entry](https://scondo-prof.github.io/productiveJournal/weeklyProductiveJournal/2025/5/06/dailyProgress/#genie-in-a-bottle). This exercise helped me keep a straight follow‑through and consistent bridge pressure.
+
+I also experimented with two challenging bridge positions:
+
+- **Rail Bridge (Hanging Off the Table):** Simulated shots where the cue ball hugs the rail. This forced me to stabilize my wrist and maintain a level cue to avoid miscuing.
+- **Arched Bridge (Shooting Behind an Object):** Practiced shots where I must clear an obstruction. The elevated bridge improved my accuracy and taught me to trust the cue’s contact point when reaching over.
+
+**Key Takeaways:**
+
+1. Maintaining a solid, level bridge is essential when the cue ball is near the rail.
+2. An arched bridge demands extra wrist stability and precise aiming—visualizing the cue ball’s path is critical.
+3. Consistent follow‑through, verified by the water bottle drill, ensures repeatable accuracy across any bridge.
+
 ---
 
 ![Piano in Nature](./assets/pianoInNature.png)
