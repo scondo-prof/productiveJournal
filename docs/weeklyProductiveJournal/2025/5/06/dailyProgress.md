@@ -71,7 +71,7 @@ I continued working on the key progression for this song. My tempo is still a bi
 
 This piece is reserved for those moments when I simply want to play for enjoyment. Tonight, the open window and gentle rainfall created the perfect atmosphere to let it flow.
 
-## Strokin’ Not Pokin’
+## Feelin the Felt
 
 ### Stroke Practice
 
