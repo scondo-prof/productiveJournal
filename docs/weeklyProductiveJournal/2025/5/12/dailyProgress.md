@@ -1,6 +1,6 @@
 # Day of Docs and Docile Night Skies
 
-## Cardiovascular Conditioning
+## Spraying Albuterol and Stamina
 
 ### Treadmill Tempo Test
 
