@@ -19,3 +19,15 @@ These state which port to expect traffic from, it then has you select a target, 
 #### Hide within Private Subnets
 
 Cool thing about this integration is the EC2s can live within a private subnet. For Egress traffic(if the service needs to talk with the internet) could be directed through a NAT Gateway with a Static IP that lives in a public subnet within the same VPC. While Egress traffic is handled by the ALB that lives in a public subnet in the Same VPC. This works with corresponding Routes allowing traffic, and security groups allowing traffic from specific ports. For intance, the security group that is attached to the jenkins server, needs to have an ingress rule that allows traffic on port 8080 from the ALBs security group. Practically saying I am allowing traffic through our VPCs network from the ALB.
+
+## Tickling the Ivories, Not the Ovaries
+
+### Song Practice
+
+#### II by Old Gray
+
+Can completely play through this song now. It is at a slower tempo with some miss keys sometimes.
+
+### Michael Myers’ Theme
+
+Can confidently play the first 8 measures. Need to work on the transition to the next measures. Improve finger accuracy while maintaining tempo.
