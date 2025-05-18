@@ -4,36 +4,40 @@
 
 ### westCoastBeauty
 
-This is the starter name for this project/video
+**Project Title:** `westCoastBeauty` (working name)
 
 #### Video Collection
 
-Reviewed Videos and selected several videos for the project. Decided the videos of choice would be less active videos from the journey to Mt St.Helens
+- Reviewed all raw footage and hand‑picked serene clips from our journey to Mount St. Helens.
+- Combined GoPro and Mavic 3 Pro footage; GoPro clips will require stabilization and smooth transitions.
 
-There is a mixture between videos off the gopro and Mavic 3 Pro. The GoPro vids need ot be smoothed.
+#### Song Selection
 
-#### Song Choice
-
-Debating between several classical choices. Something that has a rather constant piano with changes in tempo over time. This allows great clip flow
+- Evaluating classical piano pieces with a steady motif and evolving tempo—ideal for seamless cross‑fades and emotional pacing.
 
 #### Base Adobe Creative Filter
 
-So far I have landed on 2
+- **SL Gold Orange**: Warm, airy look—adds lightness but can exaggerate rain artifacts.
+- **SL Neutral Start**: Clean, crisp tonality with a subtle melancholic tint—enhances nature’s moodiness.
 
-SL Gold Orange (gives a lighter feeling to the videos. Issue is the rain makes it act funky)
-
-SL Nuetral Start (This is a really clean filter, but it gives clarity into a sadder ambience. May play good to the tune of natures order)
+---
 
 ### pittsburgAdventureSports
 
+**Project Title:** `pittsburgAdventureSports` (working name)
+
 #### Video Collection
 
-Collected all the fpv GoPro footage of a fly in pittsburg at an all terain adventure place called adventure sports
+- Compiled FPV GoPro footage from our trip to Pittsburg Adventure Sports, capturing dynamic aerial stunts and course runs.
 
-#### Song Choice
+#### Song Selection
 
-Struggling a bit with this. Catching vibes of a darker R&B, Jazz, Lounge song. Still Playing around with it
+- Considering a laid‑back R\&B/jazz‑lounge track: moody, bass‑driven, and relaxed to match the footage’s kinetic energy.
 
 #### Base Adobe Creative Filter
 
-I have landed on SL Blue Cold. It is a harder filter to utilize with a song. It is not an upbeat camera look, so the song has to be far more relaxed, dark, and loung like. Kind of like an Underground jazz vibe with some nice bass guitar vibes
+- **SL Blue Cold**: Cool, subdued palette—pairs well with a lounge‑style track and emphasizes a sophisticated, underground jazz vibe.
+
+---
+
+![Man with the Mountain](./assets/manWithTheMountain.png)
