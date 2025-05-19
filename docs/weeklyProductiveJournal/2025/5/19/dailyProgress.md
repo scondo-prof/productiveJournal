@@ -1,27 +1,60 @@
-# Day of Smoothin and Groovin
+# Day of Smoothin’ and Groovin’
 
-## Spraying Albuterol and Acquiring Stamina
+## Spraying Albuterol and Building Stamina
 
-### Progress
+### Running Progress
 
-Ran the 2 mile route again after the weekend break. Took 3 stops for completion
+- Completed the 2‑mile route again after taking the weekend off.
+- Paused three times to catch breath and stretch.
 
-### Takeaways
+### Key Takeaways
 
-endured good amounts of cramping and asthma. Key notes are hydration and stretching
+- Experienced mild leg cramps and asthma flare‑ups.
+- Prioritize proper hydration, dynamic warm‑ups, and post-run stretching routines.
 
-## thePremier
+## thePremier Video Projects
 
-### westCoastBeauty
+### West Coast Beauty
 
 #### Video Preparation
 
-Smoothed all the GoPro footage and have it primed for the project
+- Stabilized all GoPro footage; clips are now primed for editing and timeline assembly.
 
-### pittsburgAdventureSports
+### Pittsburgh Adventure Sports
 
-#### Song Selection
+#### Music Selection
 
-Listened to Noir Styled Jazz and thought it was pretty groovy. Some of that genre have really good dark styled bass lines that are medium tempo that would be perfect for the ambience of that video. Need to find some royalty free music that matches that energy
+- Explored noir‑style jazz tracks with dark, groovy basslines and moderate tempo—perfect for an urban‑adventure vibe.
+- Need to source royalty‑free options that capture that moody, laid‑back energy.
+
+## Tickling the Ivories, Not the Ovaries
+
+### Song Practice & Learning
+
+#### “II” by Old Gray
+
+- Confidently play through all measures; minor chord slips in a few spots
+- Focus: smooth chord changes and consistent finger placement.
+
+#### “I” by Old Gray
+
+- Experimenting with dynamics: varying strike intensity to convey different emotions.
+- Next goal: refine crescendos and decrescendos for more expressive phrasing.
+
+#### Transition: “II” → “I”
+
+- Designing a seamless segue from “II” into “I.” The titles may seem reversed, but I enjoy ending on “I” to underscore a poignant, sorrow‑tinged finale.
+
+#### “Theme from Halloween” (Michael Myers Theme)
+
+- Intro: right‑hand only first four measures. Pattern throughout whole song is:
+  `Ring Finger Thumb Thumb Ring Finger Thumb Thumb Ring Finger Thumb Pinky Thumb (one measure)`
+- Then the left hand enters with sustained whole‑note bass tones. Pattern throughout whole song:
+
+  1. `Ring finger (one measure)`
+  2. `Thumb (one measure)`
+  3. `Pinky (two measures)`
+
+- Challenge: maintain this rapid alternation at high tempo without sacrificing accuracy.
 
 ![The Groovester](./assets/theGroovester.png)
