@@ -12,9 +12,9 @@
 - Experienced mild leg cramps and asthma flare‑ups.
 - Prioritize proper hydration, dynamic warm‑ups, and post-run stretching routines.
 
-## thePremier Video Projects
+## thePremier
 
-### West Coast Beauty
+### westCoastBeauty
 
 #### Video Preparation
 
@@ -34,7 +34,7 @@
 
 - Switched music choice to Bloom by Brianna Tam
 
-### Pittsburgh Adventure Sports
+### pittsburgAdventureSports
 
 #### Music Selection
 
