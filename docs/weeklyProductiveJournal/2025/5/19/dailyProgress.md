@@ -20,6 +20,20 @@
 
 - Stabilized all GoPro footage; clips are now primed for editing and timeline assembly.
 
+#### Assembly
+
+- Cut up all of the clips and put best slices into a row for evaluation
+
+#### Color
+
+- Finalized Lumetri Scheme:
+
+![Lumetri Scheme](./assets/chosenLumetriScheme.png)
+
+#### Music
+
+- Switched music choice to Bloom by Brianna Tam
+
 ### Pittsburgh Adventure Sports
 
 #### Music Selection
