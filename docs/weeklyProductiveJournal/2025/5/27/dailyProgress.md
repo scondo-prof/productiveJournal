@@ -1,17 +1,45 @@
-# Day of the Pheonix
+# Day of the Phoenix
 
 ## The Premiere
 
-### Venture to Mount St.Helens
+### Venture to Mount St. Helens
 
-#### Rendering and Produce
+#### Rendering and Production
 
-The export of the Adventure Sports FPV flight ended up lagging within the youtube browser but not on local. It might have something to do with how dense it was with frames and quality. Attempted to utilize the youtube 4k preset. But it did not work as intended. It ended up exporting in 2k lopping off a bunch of video quality. Attempting to match source (uhd) but turn down frame rate from 120 to 50fps
+The Adventure Sports FPV flight video exported smoothly on the Rendering EC2 Machine but stuttered in YouTube’s browser player. This is likely due to the high frame rate and bitrate of the original footage. I attempted the YouTube 4K preset, but the uploader defaulted to 2K, which noticeably degraded image clarity. To optimize playback compatibility without sacrificing quality, I plan to:
 
-## Git Lab
+- **Match Original Resolution:** Retain UHD (3840×2160) output when possible.
+- **Reduce Frame Rate:** Lower from 120 fps to around 50 fps to ease browser decoding.
+- **Adjust Bitrate:** Experiment with custom H.264/HEVC bitrates to balance smooth motion against file size.
+- **Test Encoding Profiles:** Compare results using different encoder presets (e.g., slow vs. medium) to minimize artifacts.
 
-### Git Lab Via SSH
+Implementing these tweaks should yield a video that remains crisp and fluid both locally and on streaming platforms.
 
-#### Authentication
+---
 
-It is important to know if you are connecting to a Git Lab environment that lives somewhere private that must be accessed via a vpn tunnel there are some steps to auth. First Know you must have the VPN active. Second, if you decide to connect via SSH key, know you cannot test your ssh connection with a generic gitlab lookup. Due to the fact it is its own private entity it can only know the resources in the entity. Test by cloning a repo that is accessible in the gitlab
+## GitLab
+
+### Secure SSH Access
+
+#### Authentication Workflow
+
+When connecting to a private GitLab instance through a VPN, follow this procedure for reliable SSH authentication:
+
+1. **Activate the VPN:**
+   Ensure your VPN client is connected to the corporate network before any SSH attempts.
+
+2. **Follow These Steps:**
+   [`Steps`](https://docs.gitlab.com/user/ssh/)
+
+3. **Validate the Connection:**
+   Rather than a generic host key lookup, test by cloning a known repository:
+
+   ```bash
+   git clone git@gitlab-internal:group/repo.git
+   ```
+
+   A successful clone verifies both network and key-based authentication.
+
+---
+
+![The Pheonix](./assets/thePheonix.png)
